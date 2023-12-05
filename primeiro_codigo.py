@@ -1,5 +1,3 @@
-print('qualquer coisa')
+a = 5
 
-print('nova versão')
-
-print('teste')
+b = 3
